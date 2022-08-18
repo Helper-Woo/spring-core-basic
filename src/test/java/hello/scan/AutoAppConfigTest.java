@@ -1,4 +1,4 @@
-package scan;
+package hello.scan;
 
 import hello.core.AutoAppConfig;
 import hello.core.member.MemberService;
